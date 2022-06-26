@@ -1,5 +1,5 @@
 // Do not expose your credentials in the code for Production Environment.
-let atlasDB = "mongodb+srv://appuser:xhFYadTL1HYRH1tU@cluster004m2022.aydiv.mongodb.net/inventory?retryWrites=true&w=majority";
+let atlasDB = "mongodb+srv://echarcen:<password>@cluster0.coswfc7.mongodb.net/?retryWrites=true&w=majority";
 
 // Database setup
 let mongoose = require('mongoose');
