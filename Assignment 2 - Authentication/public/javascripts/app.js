@@ -1,3 +1,10 @@
+/*
+App.js
+Erica Charlton
+301208854
+06/23/22
+*/
+
 console.log('Goes to the client side.');
 
 if(getTitle == "Inventory List")
